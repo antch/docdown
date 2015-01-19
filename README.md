@@ -1,4 +1,4 @@
-# Docdown <sup>v1.0.0</sup>
+# Docdown v1.0.0
 
 A simple JSDoc to Markdown documentation generator.
 
@@ -21,15 +21,3 @@ $markdown = docdown(array(
   "url"  => "https://github.com/username/project/blob/master/my.js"
 ));
 ```
-
-## Author
-
-| [![twitter/jdalton](http://gravatar.com/avatar/299a3d891ff1920b69c364d061007043?s=70)](https://twitter.com/jdalton "Follow @jdalton on Twitter") |
-|---|
-| [John-David Dalton](http://allyoucanleet.com/) |
-
-## Contributors
-
-| [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias "Follow @mathias on Twitter") |
-|---|
-| [Mathias Bynens](http://mathiasbynens.be/) |
